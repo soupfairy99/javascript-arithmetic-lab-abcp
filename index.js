@@ -15,4 +15,6 @@ function multiply(a,b){
   
   function dec(n){
   return --n}
-  inc(1);
+  dec(2);
+  
+  parseInt('3', 10);
