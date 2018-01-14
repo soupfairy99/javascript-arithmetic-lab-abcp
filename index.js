@@ -8,4 +8,4 @@ function multiply(a,b){
   
   function inc(n){
   return ++n}
-  return(1);
+  inc(1);
