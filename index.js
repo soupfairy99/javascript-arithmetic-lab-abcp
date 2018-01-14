@@ -23,6 +23,11 @@ function multiply(a,b){
 
 makeInt('2.2')
   
+  function preserveDecimal(n){
+  return parseFloat(n)
+  }  
+
+preserveDecimal('2.222')
   
   
  
