@@ -7,4 +7,4 @@ function multiply(a,b){
   multiply(5,6);
   function divide(a,b){
   return a/b}
-  multiply(5,6);
+  divide(30,6);
