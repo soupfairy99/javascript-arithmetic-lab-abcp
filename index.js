@@ -6,5 +6,5 @@ function add(){
 }
 
 add();
-1 + 80
+//look, I really don't know how to make these tests run, but here are the functions you are asking for. 
 
