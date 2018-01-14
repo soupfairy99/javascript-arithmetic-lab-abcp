@@ -5,6 +5,7 @@ subtract(4,3);
 function multiply(a,b){
   return a * b}
   multiply(5,6);
-  function divide(a,b){
-  return a/b}
-  divide(30,6);
+  
+  function inc(n){
+  return ++n}
+  return(1);
