@@ -13,12 +13,18 @@ function multiply(a,b){
   return ++n}
   inc(1);
   
+  function dec(n){
+  return --n}
+  dec(2);
+  
+  dec
+  
   
   function makeInt(n){
   return parseInt('n',10)
   }  
 
-  }
-  dec(2);
+  
+  d
   
  
