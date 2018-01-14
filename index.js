@@ -12,3 +12,7 @@ function multiply(a,b){
   function inc(n){
   return ++n}
   inc(1);
+  
+  function dec(n){
+  return --n}
+  inc(1);
