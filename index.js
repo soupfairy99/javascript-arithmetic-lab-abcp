@@ -1,8 +1,4 @@
-var a, b
-function beforeEach ()
- {
-  a + b 
-  
+function add(){
+  a + b
+  return add
 }
-
-beforeEach(2,3);
