@@ -5,3 +5,6 @@ subtract(4,3);
 function multiply(a,b){
   return a * b}
   multiply(5,6);
+  function divide(a,b){
+  return a/b}
+  multiply(5,6);
