@@ -17,14 +17,12 @@ function multiply(a,b){
   return --n}
   dec(2);
   
-  dec
-  
-  
   function makeInt(n){
   return parseInt('n',10)
   }  
 
+makeInt(2.2)
   
-  d
+  
   
  
